@@ -4,10 +4,7 @@ public class GitClass {
 	
 	public static void main(String[] args) {
 
-		System.out.println("01");
-		System.out.println("02");
-		
-		System.out.println("03");
+		System.out.println("00");
 
 		System.out.println("first line");
 		System.out.println("Second Line");
@@ -22,12 +19,14 @@ public class GitClass {
 		System.out.println("Third line");
 		System.out.println("Fifth line");
 		System.out.println("Sixth Line");
+
 		System.out.println("Hello");
 		
 		System.out.println("Hi Gourav sir");
 		
 		
-
+		System.out.println("hello");
+		
 
 	}
 	
