@@ -17,6 +17,8 @@ public class GitClass {
 		System.out.println("Good Evening");
 		System.out.println("Did u hav ur dinner");
 		
+		System.out.println("We have ate Apple");
+		
 		
 
 	}
