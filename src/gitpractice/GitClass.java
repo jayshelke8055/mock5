@@ -19,6 +19,7 @@ public class GitClass {
 		
 		System.out.println("We have ate Apple");
 		System.out.println("It was Sweet");
+		System.out.println("It was Bitter");
 		
 		
 
