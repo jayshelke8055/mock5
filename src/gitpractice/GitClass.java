@@ -7,11 +7,9 @@ public class GitClass {
 		
 		
 		System.out.println("@@@@@@");
+System.out.println("***********");
 
-
-		System.out.println("first line");
-		System.out.println("Second Line");
-		System.out.println("$$");
+		
 
 	}
 
