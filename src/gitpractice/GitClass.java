@@ -11,6 +11,7 @@ public class GitClass {
 		System.out.println("sixth line");
 		
 		System.out.println("hiiii");
+		System.out.println("12");
 		
 		
 	}
