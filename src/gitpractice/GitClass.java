@@ -6,6 +6,7 @@ public class GitClass {
 		System.out.println("first line");
 		System.out.println("Second Line");
 		System.out.println("fourth line");
+		System.out.println("sixth line");
 	}
 
 }
