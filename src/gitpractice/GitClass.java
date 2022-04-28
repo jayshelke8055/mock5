@@ -8,6 +8,8 @@ public class GitClass {
 		
 		System.out.println("Third line");
 		
+		System.out.println("sixth line");
+		
 		
 	}
 
